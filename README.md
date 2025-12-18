@@ -24,6 +24,9 @@ To meet this business need, an **end-to-end Azure data pipeline** was designed a
 
 The pipeline is **fully automated with daily scheduling**, ensuring stakeholders always have access to **accurate, up‑to‑date insights**.
 
+![Overview](https://github.com/DE-romane/Azure-Databricks-Medallion-Pipeline-Bronze-Silver-Gold-/blob/main/Overview.png)
+
+
 ---
 
 ## Data Source
